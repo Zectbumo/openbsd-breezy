@@ -1,0 +1,7 @@
+Breezy (brz) is a decentralized revision control system, designed
+to be easy for developers and end users alike. By default, Breezy
+provides support for both the Bazaar and Git file formats. Breezy
+is a friendly fork of the Bazaar (bzr) project. It is backwards
+compatibility with Bazaar's disk format and protocols. Breezy directly
+supports both central version control (like cvs/svn) and distributed
+version control (like git/hg).
